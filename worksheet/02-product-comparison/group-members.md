@@ -17,27 +17,26 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 | # | Mã học viên | Họ tên đầy đủ | Phân công chính |
 |---|---|---|---|
-| 1 | A20-XXXXX | [...] | [...] |
-| 2 | A20-XXXXX | [...] | [...] |
-
+| 1 | A20-2A202600320| Trần Vọng Triển | Rytr |
+| 2 | A20-2A202600210 | Nguyễn Thị Ngọc Thư |Notion |
 ---
 
 ## Nhiệm vụ thử nghiệm chung
 
-[Mô tả 1-2 câu nhiệm vụ chung mà cả 2 thành viên cùng test trên 2 sản phẩm. Ví dụ: "Viết bản tóm tắt 200 từ về tác động của AI lên ngành ed-tech, có dẫn nguồn."]
+Viết một email lịch sự gửi cho khách hàng để giải thích việc giao hàng chậm trễ 3 ngày do ảnh hưởng của bão, đồng thời chủ động đề xuất phương án bồi thường phù hợp.
 
-**Ngành chọn**: [A — Tìm kiếm / B — Lập trình / C — Viết lách / D — Nghiên cứu]
+**Ngành chọn**: [C — Viết lách]
 
-**Sản phẩm A**: [tên + URL]
+**Sản phẩm A**: Notion AI — https://www.notion.so/product/ai
 
-**Sản phẩm B**: [tên + URL]
+**Sản phẩm B**: Rytr — https://rytr.me/
 
 ---
 
 ## Phân chia screenshot
 
-- Sản phẩm A → [Mã học viên nào phụ trách chụp]
-- Sản phẩm B → [Mã học viên nào phụ trách chụp]
+- Sản phẩm A (Notion AI) → 2A202600210 phụ trách chụp .
+- Sản phẩm B (Rytr) → 2A202600320 phụ trách chụp .
 
 ---
 
@@ -53,13 +52,13 @@ File này khai báo 2 thành viên trong nhóm + phân công thực hiện.
 
 Slide deck Analysis Report có 5 mục bắt buộc (S1 → S5). Mục S5 (Product Judgment) được mở rộng thành 8 mục con để bám sát 5 chiều phân tích định lượng (user base, tăng trưởng, doanh thu, moat, data flywheel) đã làm ở Lab 1 Phần B.
 
-- **S5.1 Verdict** — mỗi sản phẩm xếp loại Strong / Promising / Weak / At Risk, kèm lý do 1 câu.
-- **S5.2 User base + tăng trưởng** — số liệu công khai (MAU, DAU, paid users, growth rate) cho cả 2 sản phẩm + nguồn.
-- **S5.3 Doanh thu / pricing power** — mức giá so với value cung cấp; ARR/MRR nếu công khai; pricing strategy (freemium, premium, enterprise).
-- **S5.4 Moat phân tích** — đánh giá 5 loại moat (data / network / switching cost / brand / distribution) cho từng sản phẩm; moat nào mạnh, moat nào dễ bị copy.
-- **S5.5 Data flywheel + feedback loop** — hành động người dùng nào feed lại model; loop có compounding không; sản phẩm có thu thập feedback systematically.
-- **S5.6 Niche Down + AI Feature Map** — sản phẩm có niche rõ không; map User Value / User Alignment / Business Value cho từng sản phẩm.
-- **S5.7 Spark → Loop → System** — mỗi sản phẩm đang ở giai đoạn nào; dự báo 12 tháng tới.
-- **S5.8 Liên hệ Lab 1 case** — 2 sản phẩm có rủi ro disruption-style tương tự case Lab 1 không; bài học rút từ Lab 1 áp dụng được gì?
-
-Nhóm bắt buộc xong S5.1, S5.6, S5.7, S5.8 (giữ nguyên yêu cầu cốt lõi như bản gốc). S5.2–S5.5 là phần mở rộng cho yêu cầu phân tích sâu — nhóm khá phải hoàn thành đủ; nhóm Đạt có thể chấp nhận ghi "không có nguồn công khai" cho 1-2 số liệu, miễn có ghi rõ.
+- **S5.1 Verdict** — Mỗi sản phẩm xếp loại Strong / Promising / Weak / At Risk.
+    * **Notion**: Strong/Promising nhờ vị thế "workspace infrastructure".
+    * **Rytr**: At Risk do moat thấp và nguy cơ bị hòa tan bởi các model lớn.
+- **S5.2 User base + tăng trưởng** — Notion (~100M users, ~60% YoY); Rytr (~8M users, không có MAU/DAU công khai).
+- **S5.3 Doanh thu / pricing power** — Notion có pricing power tốt ($600M ARR estimate); Rytr pricing power thấp, cạnh tranh chủ yếu bằng giá rẻ.
+- **S5.4 Moat phân tích** — Notion mạnh nhất ở Switching Cost; Rytr yếu ở mọi loại moat, dễ bị copy.
+- **S5.5 Data flywheel + feedback loop** — Notion có Template Loop cực mạnh; Rytr có feedback loop yếu do người dùng thường rời platform sau khi copy output.
+- **S5.6 Niche Down + AI Feature Map** — Notion hướng tới "AI Operating System"; Rytr là "Low-cost AI writing assistant".
+- **S5.7 Spark → Loop → System** — Notion đang ở giai đoạn System; Rytr dừng ở Spark/Early Loop.
+- **S5.8 Liên hệ Lab 1 case** — Rủi ro disruption từ AI Agent (tương tự case StackOverflow/Jasper).
